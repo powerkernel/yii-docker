@@ -2,21 +2,17 @@
     <a href="https://www.docker.com/" target="_blank">
         <img src="https://www.docker.com/sites/default/files/mono_vertical_large.png" height="100px">
     </a>
-    <h1 align="center">Yii2 PHP Docker Image</h1>
+    <h1 align="center">Yii PHP Docker Image</h1>
     <br>
 </p>
 
-**Stable**
-[![Build Status](https://travis-ci.org/yiisoft/yii2-docker.svg?branch=master)](https://travis-ci.org/yiisoft/yii2-docker)
-**Development**
-[![pipeline status](https://gitlab.com/yiisoft/yii2-docker/badges/master/pipeline.svg)](https://gitlab.com/yiisoft/yii2-docker/commits/master)
 
 
-This is the repo of the official [Yii 2.0 Framework](http://www.yiiframework.com/) image on [DockerHub](https://hub.docker.com/r/yiisoftware/yii2-php/) for PHP.
+This is the repo of the [Yii Framework](http://www.yiiframework.com/) image on [DockerHub](https://hub.docker.com/r/powerkernel/yii-php/tags) for PHP.
 
 ## About
 
-These Docker images are built on top of the official PHP Docker image, they contain additional PHP extensions required to run Yii 2.0 framework, but no code of the framework itself.
+These Docker images are built on top of the official PHP Docker image, they contain additional PHP extensions required to run Yii framework, but no code of the framework itself.
 The `Dockerfile`(s) of this repository are designed to build from different PHP-versions by using *build arguments*.
 
 ### Available versions for `powerkernel/yii-php`
