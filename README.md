@@ -22,7 +22,7 @@ The `Dockerfile`(s) of this repository are designed to build from different PHP-
 ### Available versions for `powerkernel/yii-php`
 
 ```
-7.3-apache, 7.2-apache, 7.1
+7.3-apache, 7.2-apache, 7.1-apache
 ```
 
 ## Setup
